@@ -7,7 +7,9 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 📖🍳🎨 When I’m not coding or designing, you’ll find me reading books, experimenting in the kitchen, or creating new designs.
 🚀 Always learning, always building—let’s connect and create something amazing!
-<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **"Designing with heart, coding with edge—where pixels meet personality!" 🎨💻✨** 
+<br><br>📫 Connect - **pauladitya936@gmail.com**<br><br> ⚡ Fun fact - **"Code. Create. Conquer. – Building seamless experiences, one stack at a time."🔥🚀**
+
+![Export to Google Doc](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/create.svg)![Copy with formatting](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/copy.svg)![Select for Multi-select](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/multi-select.svg)** 
 
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
@@ -33,16 +35,16 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 <h1 align="left"> 🗣 Socials : </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/snigdha-kundu-2b4862254/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=DE3163&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+  <a href="https://www.linkedin.com/in/iamadityapaul/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=73C7C7&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
       </a>
 
   <a href="https://x.com/kundusnigdha02">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=FF8383&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=71BBB2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   
   <a href="https://www.instagram.com/_.mimmie02._/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=FFCFCF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=A6F1E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
   </a>
   
 
@@ -75,7 +77,8 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&background=45%2C007387%2C000000&hide_longest_streak=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&background=45%2C007387%2C000000&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=react)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=react)

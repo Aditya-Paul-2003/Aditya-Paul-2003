@@ -74,7 +74,7 @@ Let's connect and create something amazing together! 🚀
 
 <div align="center">
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Paul-2003&theme=react)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Paul-2003&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=iceberg)](https://git.io/streak-stats)
 
 

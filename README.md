@@ -11,7 +11,7 @@ Let's connect and create something amazing together! 🚀
 # 🧑🏻‍💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwindcss,reactjs,nodejs,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwindcss,react,nodejs,&theme=dark" />
   </a>
 </p>
 

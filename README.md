@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aonymous&pause=1000&color=0FA9A0&width=435&height=60&lines=Hey%2C+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aonymous&pause=1000&color=F07A20&width=435&height=60&lines=Hey%2C+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 #  About Me: 🌻
 I'm a UI/UX Designer and Full-Stack Developer with a passion for crafting seamless user experiences and building scalable web applications. With strong leadership skills, I thrive in collaborative environments and love bringing ideas to life through design and code.

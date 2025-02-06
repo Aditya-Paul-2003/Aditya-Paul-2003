@@ -75,7 +75,7 @@ Let's connect and create something amazing together! 🚀
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Paul-2003&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=gruvbox&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=gruvbox)](https://git.io/streak-stats)
 
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=gruvbox)

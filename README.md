@@ -33,15 +33,15 @@ Let's connect and create something amazing together! 🚀
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamadityapaul/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=73C7C7&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=47413D&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
       </a>
 
   <a href="https://x.com/AdityaPaul59313">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=71BBB2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=47413D&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   
   <a href="https://www.instagram.com/iadityapaul/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=A6F1E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=47413D&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo"/>
   </a>
   
 

@@ -74,7 +74,9 @@ Let's connect and create something amazing together! 🚀
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&background=45%2C007387%2C000000&hide_longest_streak=true" /></a>
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Paul-2003&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=iceberg)](https://git.io/streak-stats)
+
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=react)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=react)

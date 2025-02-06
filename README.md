@@ -17,7 +17,7 @@ Let's connect and create something amazing together! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,typescript,javascript,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,typescript,javascript,php&theme=dark" />
   </a>
 </p>
 <div align="center">

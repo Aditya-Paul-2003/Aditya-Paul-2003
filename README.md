@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aonymous&pause=1000&color=0FA9A0&width=435&height=70&lines=Hey%2C+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aonymous&pause=1000&color=0FA9A0&width=435&height=60&lines=Hey%2C+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 #  About Me: 🌻
 A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.🩷
@@ -64,7 +64,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
@@ -75,14 +75,13 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <div align="center">
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Paul-2003&theme=highcontrast)
-<img src="https://streak-stats.demolab.com?user=Aditya-Paul-2003&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=highcontrast)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=highcontrast)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Paul-2003&theme=highcontrast)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Paul-2003&theme=highcontrast&utcOffset=8)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=react)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=react)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Paul-2003&theme=react)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Paul-2003&theme=react&utcOffset=8)
 
-![](https://github-profile-trophy.vercel.app/?username=Aditya-Paul-2003&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aditya-Paul-2003&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
 </div>

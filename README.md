@@ -78,11 +78,11 @@ Let's connect and create something amazing together! 🚀
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=iceberg)](https://git.io/streak-stats)
 
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=react)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=react)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Paul-2003&theme=react)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Paul-2003&theme=react&utcOffset=8)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=gruvbox)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=gruvbox)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Paul-2003&theme=gruvbox)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-Paul-2003&theme=gruvbox&utcOffset=8)
 
-![](https://github-profile-trophy.vercel.app/?username=Aditya-Paul-2003&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aditya-Paul-2003&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 </div>

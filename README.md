@@ -9,18 +9,16 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 🚀 Always learning, always building—let’s connect and create something amazing!
 <br><br>📫 Connect - **pauladitya936@gmail.com**<br><br> ⚡ Fun fact - **"Code. Create. Conquer. – Building seamless experiences, one stack at a time."🔥🚀**
 
-![Export to Google Doc](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/create.svg)![Copy with formatting](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/copy.svg)![Select for Multi-select](chrome-extension://iapioliapockkkikccgbiaalfhoieano/assets/multi-select.svg)** 
-
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,tailwindcss,reactjs &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,tailwindcss,reactjs,nodejs,&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,typescript,javascript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,typescript,javascript,php&theme=dark" />
   </a>
 </p>
 <div align="center">

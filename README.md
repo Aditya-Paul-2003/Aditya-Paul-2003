@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aonymous&pause=1000&color=0FA9A0&width=435&height=60&lines=Hey%2C+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 #  About Me: 🌻
-A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.🩷
+I'm a UI/UX Designer and Full-Stack Developer with a passion for crafting seamless user experiences and building scalable web applications. With strong leadership skills, I thrive in collaborative environments and love bringing ideas to life through design and code.
 
-💡 Beyond tech, I bring strong leadership skills, ensuring smooth collaboration and innovation in every project.
+🏙️ I enjoy travelling, 🌍 exploring new concepts, and 📚 gaining knowledge to stay ahead in the ever-evolving tech world.
 
-📖🍳🎨 When I’m not coding or designing, you’ll find me reading books, experimenting in the kitchen, or creating new designs.
-🚀 Always learning, always building—let’s connect and create something amazing!
+Let's connect and create something amazing together! 🚀
 <br><br>📫 Connect - **pauladitya936@gmail.com**<br><br> ⚡ Fun fact - **"Code. Create. Conquer. – Building seamless experiences, one stack at a time."🔥🚀**
 
-# 👩🏻‍💻 Tech Stack :
+# 🧑🏻‍💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,tailwindcss,reactjs,nodejs,&theme=dark" />
@@ -30,7 +29,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 
 
-<h1 align="left"> 🗣 Socials : </h1>
+<h1 align="left"> 📱 Socials : </h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iamadityapaul/">
@@ -75,8 +74,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&background=45%2C007387%2C000000&hide_longest_streak=true)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&background=45%2C007387%2C000000&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=react&background=45%2C007387%2C000000&hide_longest_streak=true" /></a>
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=react)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Paul-2003&theme=react)

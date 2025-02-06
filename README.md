@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aonymous&pause=1000&color=F07A20&width=435&height=60&lines=Hey%2C+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=23&pause=1000&color=F07A20&width=435&lines=Hey+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 #  About Me: 🌻
 I'm a UI/UX Designer and Full-Stack Developer with a passion for crafting seamless user experiences and building scalable web applications. With strong leadership skills, I thrive in collaborative environments and love bringing ideas to life through design and code.
 
-🏙️ I enjoy travelling, 🌍 exploring new concepts, and 📚 gaining knowledge to stay ahead in the ever-evolving tech world.
+🏙️ I enjoy traveling, 🌍 exploring new concepts, and 📚 gaining knowledge to stay ahead in the ever-evolving tech world.
 
 Let's connect and create something amazing together! 🚀
 <br><br>📫 Connect - **pauladitya936@gmail.com**<br><br> ⚡ Fun fact - **"Code. Create. Conquer. – Building seamless experiences, one stack at a time."🔥🚀**
@@ -75,7 +75,7 @@ Let's connect and create something amazing together! 🚀
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Paul-2003&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=iceberg)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=gruvbox&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Paul-2003&theme=gruvbox)

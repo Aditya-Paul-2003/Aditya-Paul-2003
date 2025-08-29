@@ -12,7 +12,7 @@ Let's connect and create something amazing together! 🚀
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,jupyter,pandas,excel,pbi"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,sqlserver,jupyter,pandas,excel,pbi"
     />
   </a>
 </p>

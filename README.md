@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anonymous&size=23&pause=1000&color=F07A20&width=435&lines=Hey+It's+Aditya+here;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 #  About Me: 🌻
-I'm a UI/UX Designer and Full-Stack Developer with a passion for crafting seamless user experiences and building scalable web applications. With strong leadership skills, I thrive in collaborative environments and love bringing ideas to life through design and code.
+### 🎯 Aspiring Data Analyst | Full-Stack Developer | Tech Enthusiast
+I’m passionate about turning raw data into actionable insights and building impactful digital solutions. My journey began in web development, and over time, I’ve transitioned into data analytics, where I now focus on data cleaning, visualization, and storytelling through numbers.
 
 🏙️ I enjoy traveling, 🌍 exploring new concepts, and 📚 gaining knowledge to stay ahead in the ever-evolving tech world.
 

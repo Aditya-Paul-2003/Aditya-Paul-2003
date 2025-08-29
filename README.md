@@ -7,7 +7,7 @@ I’m passionate about turning raw data into actionable insights and building im
 🏙️ I enjoy traveling, 🌍 exploring new concepts, and 📚 gaining knowledge to stay ahead in the ever-evolving tech world.
 
 Let's connect and create something amazing together! 🚀
-<br><br>📫 Connect - **pauladitya936@gmail.com**<br><br> ⚡ Fun fact - **"Code. Create. Conquer. – Building seamless experiences, one stack at a time."🔥🚀**
+<br><br>📫 Connect - **pauladitya936@gmail.com**<br><br> 📊💡💻 **Analyze. Visualize. Realize. – Turning data into decisions, and ideas into impact.**
 
 # 🧑🏻‍💻 Tech Stack :
 <p align="center">
